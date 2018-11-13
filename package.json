@@ -1,0 +1,26 @@
+{
+  "name": "mock-up-biblio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pirijuamps/Mock-up-biblio.git"
+  },
+  "keywords": [
+    "oscar"
+  ],
+  "author": "programame-esta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pirijuamps/Mock-up-biblio/issues"
+  },
+  "homepage": "https://github.com/Pirijuamps/Mock-up-biblio#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "materialize-css": "^1.0.0-rc.2"
+  }
+}
